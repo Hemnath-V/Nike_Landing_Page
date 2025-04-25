@@ -1,12 +1,70 @@
-# React + Vite
+# 👟 Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page for Nike, built with **React.js**, **Tailwind CSS**, and **Vite**.
 
-Currently, two official plugins are available:
+🌐 Live Demo: [Nike Landing Page](https://nike0clone.netlify.app/)  
+📦 GitHub Repository: [Nike_Landing_Page](https://github.com/Hemnath-V/Nike_Landing_Page)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📋 Table of Contents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [🤖 Introduction](#-introduction)  
+- [⚙️ Tech Stack](#️-tech-stack)  
+- [🔋 Features](#-features)  
+- [🤸 Quick Start](#-quick-start)  
+
+---
+
+## 🤖 Introduction
+
+Welcome to the **Nike Landing Page** 👟 – A visually stunning and responsive landing page for Nike's products, designed to showcase the latest offerings.
+
+This project was developed to demonstrate modern web development practices using **React.js** for the frontend, **Tailwind CSS** for styling, and **Vite** for fast development.
+
+---
+
+## ⚙️ Tech Stack
+
+- ⚛️ **React.js** – for building the interactive and dynamic user interface.
+- 🎨 **Tailwind CSS** – utility-first CSS framework for fast, modern, and responsive UI design.
+- ⚡ **Vite** – next-generation frontend tool that offers fast development build times and an optimized production build.
+- 🌐 **Unsplash API** – used to fetch and display high-quality product images for a stunning visual experience.
+
+---
+
+## 🔋 Features
+
+- 🛍 **Product Showcase** – Displays Nike's featured products and collections.
+- 🔍 **Search Products** – Allows users to search for products by category.
+- 🏷 **Special Offers** – Highlights current offers and promotions.
+- 📱 **Responsive Design** – Fully mobile-optimized for seamless browsing across all devices.
+- ⚡ **Fast Development** – Optimized build times using Vite for a smooth developer experience.
+- 🧱 **Reusable Components** – Modular and clean code for easy scalability and maintenance.
+
+---
+
+## 🤸 Quick Start
+
+Ready to get started? Follow these steps to get **Nike Landing Page** up and running locally on your machine. 🚀
+
+---
+
+```bash
+
+# 📦 1. Clone the Repository
+
+Use Git to clone the project to your local development environment:
+
+git clone https://github.com/Hemnath-V/Nike_Landing_Page.git
+cd Nike_Landing_Page
+
+# 🛠 2. Install Dependencies
+npm install  # Install project dependencies
+
+# 🚀 3. Start Development Server
+npm run dev  # Start the development server
+
+# 🌐 Open the app in the browser
+http://localhost:5173  # View your app in the browser
+
