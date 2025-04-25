@@ -20,7 +20,7 @@ A modern and responsive landing page for Nike, built with **React.js**, **Tailwi
 
 Welcome to the **Nike Landing Page** 👟 – A visually stunning and responsive landing page for Nike's products, designed to showcase the latest offerings.
 
-This project was developed to demonstrate modern web development practices using **React.js** for the frontend, **Tailwind CSS** for styling, and **Vite** for fast development.
+This project was developed to demonstrate modern web development practices using **React.js** for the frontend, **Tailwind CSS** for styling, and **Vite** for fast development. It was also created to enhance my learning and experience with **Tailwind CSS** and modern frontend technologies.
 
 ---
 
